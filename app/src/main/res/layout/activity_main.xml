@@ -78,7 +78,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="24dp"
         android:layout_marginTop="68dp"
-        android:text="Sua senha compexa:"
+        android:text="Sua senha complexa:"
         android:textColor="#aaa"
         android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
